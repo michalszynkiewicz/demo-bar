@@ -16,7 +16,7 @@
   <dependencies>
     <dependency>
       <groupId>com.github.michalszynkiewicz.demo</groupId>
-      <artifactId>foo</artifactId>
+      <artifactId>foo-pre-demo</artifactId>
       <version>1.0</version>
     </dependency>
   </dependencies>
