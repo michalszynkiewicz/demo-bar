@@ -6,7 +6,7 @@
 
   <groupId>com.github.michalszynkiewicz.demo</groupId>
   <artifactId>pre-demo-bar</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.1</version>
 
   <licenses>
     <license>
@@ -16,8 +16,8 @@
   <dependencies>
     <dependency>
       <groupId>com.github.michalszynkiewicz.demo</groupId>
-      <artifactId>foo-pre-demo</artifactId>
-      <version>1.0</version>
+      <artifactId>foo-demo</artifactId>
+      <version>1.0.1</version>
     </dependency>
   </dependencies>
 </project>
