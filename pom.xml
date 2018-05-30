@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.github.michalszynkiewicz.demo</groupId>
-  <artifactId>pre-demo-bar</artifactId>
+  <artifactId>demo-bar</artifactId>
   <version>1.0.1</version>
 
   <licenses>
